@@ -1,2 +1,2 @@
-Zadajtext = (input("Zadaj text:"))
-print(10 * f"{Zadajtext}\n")
+txt = (input("Zadaj text:"))
+print(10 * f"{txt}\n")
